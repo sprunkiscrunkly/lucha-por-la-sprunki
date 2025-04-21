@@ -1,6 +1,6 @@
-# Battle For The Sprunki
+# Lucha Por La Sprunki
 
-![Battle For The Sprunki](https://raw.githubusercontent.com/sprunkiscrunkly/lucha-por-la-sprunki/refs/heads/main/lucha-por-la-sprunki.png "Battle For The Sprunki")
+![Lucha Por La Sprunki](https://raw.githubusercontent.com/sprunkiscrunkly/lucha-por-la-sprunki/refs/heads/main/lucha-por-la-sprunki.png "Lucha Por La Sprunki")
 
 👉👉 Click to play，1st Version: [Lucha Por La Sprunki](https://sprunksters.com/lucha-por-la-sprunki/ "Lucha Por La Sprunki")
 
